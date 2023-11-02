@@ -1,0 +1,100 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #FDF0F0;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+
+.jumbotron {
+  font-size: 20px;
+  padding: 60px;
+  background-color: #363062;
+  text-align: center;
+  color: white;
+}
+
+.profile-container {
+    background-color: #fff;
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    display: flex;
+    align-items: center;
+}
+
+.profile-left {
+    flex: 1;
+    text-align: left;
+    padding: 0 20px;
+}
+
+.profile-right {
+    flex: 2;
+    text-align: center;
+    padding: 0 20px;
+}
+
+h1 {
+    color: #F1EFEF;
+}
+
+.desc-container {
+    background-color: #fff;
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    display: flex;
+    align-items: center;
+    display: inline-block;
+    text-align: center;
+    margin: 0 20px;
+    vertical-align: top;
+}
+
+p {
+    font-size: 12px;
+    margin: 8px 0;
+}
+
+a {
+    color: #0077b5;
+    text-decoration: none;
+}
+
+table {
+    width: 100%;
+}
+
+table,
+td {
+    border-collapse: collapse;
+}
+
+td {
+    padding: 8px;
+    text-align: left;
+}
+
+.certificate-group {
+    text-align: center;
+    margin: 20px 0;
+}
+
+.certificate {
+    display: inline-block;
+    text-align: center;
+    margin: 0 20px;
+    vertical-align: top;
+}
+
+.certificate img {
+    max-width: 100%;
+    height: auto;
+}
+
+
